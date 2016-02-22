@@ -1,8 +1,8 @@
 name: courserashiny
 account: niceguy
 server: shinyapps.io
-bundleId: 377289
+bundleId: 377290
 url: https://niceguy.shinyapps.io/courserashiny/
-when: 1456112325.90887
+when: 1456112544.41335
 asMultiple: FALSE
 asStatic: FALSE
